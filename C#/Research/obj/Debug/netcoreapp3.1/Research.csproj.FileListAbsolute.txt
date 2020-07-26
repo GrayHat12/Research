@@ -1,0 +1,11 @@
+C:\Users\Rahul\PaidProjects\Research\C#\Research\bin\Debug\netcoreapp3.1\Research.exe
+C:\Users\Rahul\PaidProjects\Research\C#\Research\bin\Debug\netcoreapp3.1\Research.deps.json
+C:\Users\Rahul\PaidProjects\Research\C#\Research\bin\Debug\netcoreapp3.1\Research.runtimeconfig.json
+C:\Users\Rahul\PaidProjects\Research\C#\Research\bin\Debug\netcoreapp3.1\Research.runtimeconfig.dev.json
+C:\Users\Rahul\PaidProjects\Research\C#\Research\bin\Debug\netcoreapp3.1\Research.dll
+C:\Users\Rahul\PaidProjects\Research\C#\Research\bin\Debug\netcoreapp3.1\Research.pdb
+C:\Users\Rahul\PaidProjects\Research\C#\Research\obj\Debug\netcoreapp3.1\Research.csprojAssemblyReference.cache
+C:\Users\Rahul\PaidProjects\Research\C#\Research\obj\Debug\netcoreapp3.1\Research.AssemblyInfoInputs.cache
+C:\Users\Rahul\PaidProjects\Research\C#\Research\obj\Debug\netcoreapp3.1\Research.AssemblyInfo.cs
+C:\Users\Rahul\PaidProjects\Research\C#\Research\obj\Debug\netcoreapp3.1\Research.dll
+C:\Users\Rahul\PaidProjects\Research\C#\Research\obj\Debug\netcoreapp3.1\Research.pdb
