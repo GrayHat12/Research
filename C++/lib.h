@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include "Connection.h"
+#include "Neuron.h"
 
 class ConnectionList
 {
@@ -76,8 +77,6 @@ class DoubleList {
     }
 };
 
-class ShapeError {};
-
 class NeuronNode {
     public:
     Neuron* neuron;
@@ -148,3 +147,5 @@ class NeuronListWithCorrespondingConnectionList {
         else return NULL;
     }
 };
+
+class ShapeError {};
